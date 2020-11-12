@@ -5,3 +5,5 @@ These instances contain action definitions and their dependencies, not the encod
 
 Instances belong to one of four benchmark families: linear (*sequential*), parallel chains, tree (*tree-structured*) and random (*mixed*).
 The `random` instances are randomly generated and do not share the same seed with the benchmark system utilized in the paper. 
+
+Please find the instance data on the [releases page](https://github.com/vroland/smoke-testing-benchmarks/releases/tag/v0.1).
